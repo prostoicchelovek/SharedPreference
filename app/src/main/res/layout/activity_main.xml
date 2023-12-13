@@ -35,7 +35,7 @@
         android:id="@+id/textView"
         android:layout_width="163dp"
         android:layout_height="81dp"
-        android:text="00:60"
+        android:text="00:30"
         android:textSize="60sp"
         android:textStyle="normal"
         app:layout_constraintBottom_toTopOf="@+id/button"
